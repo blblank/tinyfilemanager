@@ -1,15 +1,15 @@
 {
   "appName": "Tiny File Manager",
   "version": "2.4.6",
-  "newUpdate": "111New Updates Available, Download new version <a href='https://github.com/prasathmani/tinyfilemanager/archive/master.zip' target='_blank'>here</a>",
+  "newUpdate": "New Updates Available, Download new version <a href='https://github.com/prasathmani/tinyfilemanager/archive/master.zip' target='_blank'>here</a>",
   "noUpdate": "No Updates Available",
   "aceHelp": [
-    "保存/Save (Ctrl + S)",
+    "Save (Ctrl + S)",
     "Find (Ctrl + F)",
     "Undo (Ctrl + Z)",
     "Redo (Ctrl + Y)",
     "Go to Line (Ctrl + L)",
-    "<a href='https://github.com/ajaxorg/ace/wiki/Default-Keyboard-Shortcuts' target='_blank'>更多快捷方式/More Shortcuts</a>"
+    "<a href='https://github.com/ajaxorg/ace/wiki/Default-Keyboard-Shortcuts' target='_blank'>More Shortcuts</a>"
   ],
   "aceTheme": {
     "bright": {
