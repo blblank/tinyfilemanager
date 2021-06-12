@@ -1,18 +1,18 @@
 {
   "appName": "Tiny File Manager",
   "version": "2.4.6",
-  "newUpdate": "New Updates Available, Download new version <a href='https://github.com/prasathmani/tinyfilemanager/archive/master.zip' target='_blank'>here</a>",
-  "noUpdate": "已是最新版本\r\nNo Updates Available",
+  "newUpdate": "发现新版本，点击 <a href='https://github.com/prasathmani/tinyfilemanager/archive/master.zip' target='_blank'>下载</a>",
+  "noUpdate": "已是最新版本",
   "aceHelp": [
-    "保存/Save (Ctrl + S)",
-    "寻找/Find (Ctrl + F)",
-    "撤销/Undo (Ctrl + Z)",
-    "重做/Redo (Ctrl + Y)",
-    "跳转到行Go to Line (Ctrl + L)",
+    "保存 (Ctrl + S)",
+    "寻找 (Ctrl + F)",
+    "撤销 (Ctrl + Z)",
+    "重做 (Ctrl + Y)",
+    "跳转到行 (Ctrl + L)",
     "<a href='https://github.com/ajaxorg/ace/wiki/Default-Keyboard-Shortcuts' target='_blank'>More Shortcuts</a>"
   ],
   "aceTheme": {
-    "白色/bright": {
+    "白色": {
       "chrome": "Chrome",
       "clouds": "Clouds",
       "crimson_editor": "Crimson Editor",
@@ -29,7 +29,7 @@
       "katzenmilch": "KatzenMilch",
       "sqlserver": "SQL Server"
     },
-    "黑色/dark": {
+    "暗色": {
       "ambiance": "Ambiance",
       "chaos": "Chaos",
       "clouds_midnight": "Clouds Midnight",
