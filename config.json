@@ -9,7 +9,7 @@
     "撤销 (Ctrl + Z)",
     "重做 (Ctrl + Y)",
     "跳转到行 (Ctrl + L)",
-    "<a href='https://github.com/ajaxorg/ace/wiki/Default-Keyboard-Shortcuts' target='_blank'>More Shortcuts</a>"
+    "<a href='https://github.com/ajaxorg/ace/wiki/Default-Keyboard-Shortcuts' target='_blank'>更多快捷按键</a>"
   ],
   "aceTheme": {
     "白色": {
