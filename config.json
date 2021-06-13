@@ -12,7 +12,7 @@
     "<a href='https://github.com/ajaxorg/ace/wiki/Default-Keyboard-Shortcuts' target='_blank'>更多快捷按键</a>"
   ],
   "aceTheme": {
-    "白色": {
+    "Bright": {
       "chrome": "Chrome",
       "clouds": "Clouds",
       "crimson_editor": "Crimson Editor",
@@ -29,7 +29,7 @@
       "katzenmilch": "KatzenMilch",
       "sqlserver": "SQL Server"
     },
-    "暗色": {
+    "dark": {
       "ambiance": "Ambiance",
       "chaos": "Chaos",
       "clouds_midnight": "Clouds Midnight",
